@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET7.Features.MinimalAPI", "src\NET7.Features.MinimalAPI\NET7.Features.MinimalAPI.csproj", "{AC6588DF-246A-45D0-BEAB-6342E900DC41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET7.Features.MinimalAPI.Tests", "src\NET7.Features.MinimalAPI.Tests\NET7.Features.MinimalAPI.Tests.csproj", "{D6BC3579-0430-4A22-8773-87BD449D166C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC6588DF-246A-45D0-BEAB-6342E900DC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6588DF-246A-45D0-BEAB-6342E900DC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6588DF-246A-45D0-BEAB-6342E900DC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6588DF-246A-45D0-BEAB-6342E900DC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6BC3579-0430-4A22-8773-87BD449D166C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BC3579-0430-4A22-8773-87BD449D166C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BC3579-0430-4A22-8773-87BD449D166C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BC3579-0430-4A22-8773-87BD449D166C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC786F0-35AA-473A-A4C7-39649E1F2161}
+	EndGlobalSection
+EndGlobal

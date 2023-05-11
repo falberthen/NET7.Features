@@ -1,0 +1,11 @@
+﻿global using FluentValidation;
+global using Microsoft.AspNetCore.Mvc;
+global using NET7.Features.MinimalAPI.Models;
+global using System.Threading.RateLimiting;
+global using NET7.Features.MinimalAPI.Constants;
+global using NET7.Features.MinimalAPI.Services;
+global using Microsoft.AspNetCore.RateLimiting;
+global using NET7.Features.MinimalAPI.Policies;
+global using NET7.Features.MinimalAPI.Filters;
+global using Microsoft.AspNetCore.OutputCaching;
+global using Microsoft.AspNetCore.Http.HttpResults;
